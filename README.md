@@ -1,3 +1,3 @@
 # Git Playground
 
-This is a git playground for git commands.
+This is a git commands playground repo.
